@@ -1,14 +1,19 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: Orlando Fast Food Price Index
+message: Please cite this dataset if you use it.
+type: dataset
 authors:
-- family-names: "YOUR_NAME_HERE"
-  given-names: "YOUR_NAME_HERE"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "orlando-fast-food-price-index"
-version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2026-09-21
-url: "https://github.com/siddharth-lunawat/orlando-fast-food-price-index"
+  - family-names: Lunawat
+    given-names: Siddharth
+    website: https://siddharthlunawat.com
+repository-code: https://github.com/siddharth-lunawat/orlando-fast-food-price-index
+abstract: >-
+  A weekly, open dataset of fast food pickup prices at pinned store locations
+  across Orlando, Florida, collected from the chains' own ordering sites.
+keywords:
+  - retail pricing
+  - fast food
+  - Orlando
+  - inflation
+  - open data
+license: CC-BY-4.0
