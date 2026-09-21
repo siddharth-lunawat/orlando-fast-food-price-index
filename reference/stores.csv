@@ -1,0 +1,16 @@
+chain,store_id,store_address,city,state,zip,area,store_format
+Taco Bell,039602,7623 International Dr,Orlando,FL,32819,I-Drive,standard
+Taco Bell,039598,1500 McCoy Rd,Orlando,FL,32809,MCO,standard
+Taco Bell,035462,1 S Orange Ave,Orlando,FL,32801,Downtown-South,cantina
+Taco Bell,034859,12101 University Blvd Suite 201,Orlando,FL,32817,UCF,cantina
+Taco Bell,027985,16880 E Colonial Dr,Orlando,FL,32820,Far-East,standard
+Wendy's,NA,7749 Turkey Lake Rd,Orlando,FL,32819,I-Drive,standard
+Wendy's,NA,1050 McCoy Rd,Orlando,FL,32809,MCO,standard
+Wendy's,NA,1919 S Orange Ave,Orlando,FL,32806,Downtown-South,standard
+Wendy's,NA,11251 University Blvd,Orlando,FL,32817,UCF,standard
+Wendy's,NA,14801 E Colonial Dr,Orlando,FL,32826,Far-East,standard
+Burger King,NA,5515 International Dr,Orlando,FL,32819,I-Drive,standard
+Burger King,NA,8091 S Orange Ave,Orlando,FL,32809,MCO,standard
+Burger King,NA,2892 S Orange Ave,Orlando,FL,32806,Downtown-South,standard
+Burger King,NA,11834 E Colonial Dr,Orlando,FL,32817,UCF,standard
+Burger King,NA,375 Avalon Park S Blvd,Orlando,FL,32828,Far-East,standard
